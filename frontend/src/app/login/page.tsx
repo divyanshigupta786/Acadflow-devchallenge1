@@ -75,8 +75,8 @@ export default function LoginPage() {
           <div className="h-12 w-12 rounded-2xl bg-primary/10 border border-primary/25 flex items-center justify-center text-primary mx-auto shadow-sm">
             <HeritageMark className="w-7 h-auto text-primary" />
           </div>
-          <h2 className="text-3xl font-serif font-medium tracking-tight text-foreground">Welcome to Heritage Grove</h2>
-          <p className="text-xs text-primary/80 font-mono">AcadFlow • From academic chaos to clarity</p>
+          <h2 className="text-3xl font-serif font-medium tracking-tight text-foreground">Welcome to AcadFlow</h2>
+          <p className="text-xs text-primary/80 font-mono">From academic chaos to clarity</p>
         </div>
 
         {/* 1-Click Demo Login Banner */}

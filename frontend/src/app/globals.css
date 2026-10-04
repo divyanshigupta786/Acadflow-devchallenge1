@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 :root {
-  /* Heritage Grove Light (Cream & Ink Teal) */
+  /* AcadFlow Light (Cream & Ink Teal) */
   --background: 25 22% 89%;        /* #EAE3DE */
   --foreground: 190 64% 25%;       /* #175A67 */
   --card: 25 35% 96%;              /* #FAF6F3 */
@@ -21,7 +21,7 @@
 }
 
 .dark {
-  /* Heritage Grove Dark (Nocturnal Teal & Cream) */
+  /* AcadFlow Dark (Nocturnal Teal & Cream) */
   --background: 190 51% 9%;        /* #0B1E22 */
   --foreground: 25 22% 89%;        /* #EAE3DE */
   --card: 190 45% 13%;             /* #12292E */
@@ -47,7 +47,7 @@ h1, h2, h3, .font-serif, .font-brand {
   font-family: 'Cormorant Garamond', Georgia, serif;
 }
 
-/* Heritage Grove Keyframe Animations */
+/* AcadFlow Keyframe Animations */
 @keyframes rise-in {
   from {
     opacity: 0;

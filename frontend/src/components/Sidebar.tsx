@@ -50,11 +50,11 @@ export const Sidebar: React.FC = () => {
             <HeritageMark className="w-6 h-auto text-primary" />
           </div>
           <div>
-            <div className="font-serif font-semibold text-lg leading-tight tracking-tight flex items-center gap-1.5 text-foreground">
-              <span>Heritage Grove</span>
+            <div className="font-serif font-semibold text-xl leading-tight tracking-tight flex items-center gap-1.5 text-foreground">
+              <span>AcadFlow</span>
             </div>
             <div className="text-[11px] text-primary font-mono font-medium tracking-wide">
-              AcadFlow OS
+              Academic OS
             </div>
           </div>
         </Link>

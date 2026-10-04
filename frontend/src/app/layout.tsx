@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/Sidebar";
 import { Navbar } from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Heritage Grove — AcadFlow Academic OS",
+  title: "AcadFlow — AI Academic Operating System",
   description:
     "An AI-powered academic operating system that transforms fragmented assignments, exams, projects, notes, and deadlines into an adaptive, personalized action plan.",
 };

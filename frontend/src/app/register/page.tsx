@@ -63,7 +63,7 @@ export default function RegisterPage() {
             <HeritageMark className="w-7 h-auto text-primary" />
           </div>
           <h2 className="text-3xl font-serif font-medium tracking-tight text-foreground">Create Your Account</h2>
-          <p className="text-xs text-primary/80 font-mono">Heritage Grove • AcadFlow OS</p>
+          <p className="text-xs text-primary/80 font-mono">AcadFlow • Intelligent Academic OS</p>
         </div>
 
         <form onSubmit={handleRegister} className="space-y-4">

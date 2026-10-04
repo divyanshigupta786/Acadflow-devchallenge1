@@ -50,11 +50,11 @@ export default function LandingPage() {
               <HeritageMark className="w-6 h-auto text-primary" />
             </div>
             <div>
-              <span className="font-serif font-bold text-xl tracking-tight text-foreground block leading-tight">
-                Heritage Grove
+              <span className="font-serif font-bold text-2xl tracking-tight text-foreground block leading-tight">
+                AcadFlow
               </span>
               <span className="text-[10px] uppercase font-mono tracking-wider text-primary font-semibold block">
-                AcadFlow OS
+                AI Academic OS
               </span>
             </div>
           </div>
@@ -285,7 +285,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Heritage Grove Full-Featured Footer */}
+      {/* AcadFlow Full-Featured Footer */}
       <HeritageFooter />
     </div>
   );
